@@ -1,0 +1,2 @@
+rootProject.name = "LaptopCatalog15"
+include ':app'
